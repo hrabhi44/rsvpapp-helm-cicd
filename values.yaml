@@ -7,7 +7,7 @@ image:
   repository: hemanthhr/rsvpdummy
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "9b3e5263db3983ed5a872118c5fde5c029a8ab75"
+  tag: "edb92cd62403f0752a8697b176e3e84191e4eee1"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
